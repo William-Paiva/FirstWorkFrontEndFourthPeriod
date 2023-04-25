@@ -1,0 +1,21 @@
+#slide_astro{
+    background-image: url(/images/astronnomia_main.jpg);
+}
+
+#mt1{
+    margin-top: 400px;
+    z-index: 0;
+    justify-content: center;
+}
+
+#mt2{
+    margin-top: 800px;
+    margin-left: 40px;
+    z-index: 0;
+    padding: 20px;
+    position: absolute;
+    height: 380px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+}

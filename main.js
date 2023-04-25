@@ -8,7 +8,7 @@ setInterval(function(){
 }, 4000)
 
 const theme = document.getElementById('check')
-const bg = document.getElementById('a')
+const bg = document.getElementById('theme')
 
 theme.addEventListener('change', () => {
     
